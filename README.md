@@ -10,6 +10,8 @@ docker run -ti --rm --name Claymore-ETI \
 izone/claymore
 ```
 ```
+```
+```
 docker run -ti --rm --name Claymore-ETI \
 --device /dev/kfd --device /dev/dri \
 -e POOL="s.comining.io" \
