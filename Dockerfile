@@ -12,6 +12,6 @@ RUN \
 	&& apt-get update \
 	&& apt-get --no-install-recommends install -y libcurl3
 
-ADD Claymore_v11.6.tar.gz /opt/
+ADD Claymore_v11.7.tar.gz /opt/
 
-CMD /opt/Claymore_v11.6/ethdcrminer64 -epool $POOL:$PORT -ewal $USER -epsw $USERPASS -allpools 1
+CMD /opt/Claymore_v11.7/ethdcrminer64 -epool $POOL:$PORT -ewal $USER -epsw $USERPASS -allpools 1
