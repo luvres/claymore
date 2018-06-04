@@ -39,6 +39,9 @@ izone/claymore
 docker build -t izone/claymore .
 ```
 ```
+docker build -t izone/claymore:11.7 ./11.7/
+```
+```
 docker build -t izone/claymore:11.6 ./11.6/
 ```
 ```
