@@ -1,5 +1,5 @@
 ## Claymore's
-### Dual Ethash AMD+NVIDIA GPU Miner v11.7 - LINUX
+### Dual Ethash AMD+NVIDIA GPU Miner v11.8 - LINUX
 -----
 
 ### Run
